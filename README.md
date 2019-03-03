@@ -1,2 +1,2 @@
 # JavaEE
-Projet présentant les fonctionnalités de la plateforme Java EE
+Dépôt présentant les fonctionnalités de la plateforme Java EE
